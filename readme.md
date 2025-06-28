@@ -1,1 +1,1 @@
-## test git-iam di linux
+## test git-iam di mac os for sprint feature finish
